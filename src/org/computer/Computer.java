@@ -12,12 +12,11 @@ public class Computer {
 		System.out.println("Company : lenovo");
 
 	}
-	private void laptop() {
-		System.out.println("Laptop Model: Dell");
+	private void mobilePhone() {
+		System.out.println("Pixel");
 	}
-	
-	private void tab() {
-		System.out.println("Tab Name: Apple");
-	}
+	private void mobilePrice() {
+		System.out.println("43000");
 
+	}
 }
