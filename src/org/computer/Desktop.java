@@ -7,7 +7,7 @@ public void desktopSize() {
 public static void main(String[] args) {
 	Desktop d = new Desktop ();
 	d.desktopSize();
-	d.compputerModel();
+	d.computerModel();
 }
 
 
